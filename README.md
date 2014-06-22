@@ -1,6 +1,9 @@
 fasta-uniq-amino-acids
 ======================
 
+![DOI FROM zenodo.org](https://zenodo.org/badge/4195/0x1fff/fasta-uniq-amino-acids.png)
+
+
 The repository contains set of scripts which were used to analyze the quantity of amino acids, dipeptides and tripeptides for all proteins available in the UNIPROT–TREMBL database and the listing for selected species and enzymes (Fasta Unique Sequences Amino Acids Search). UNIPROT–TREMBL contains protein sequences associated with computationally generated annotations and large-scale functional characterization.
 
 Result of this research was published in Bioinformatics.
